@@ -66,3 +66,8 @@
 - write sketches on paper - should be disposable/iterable
 - make the sketches big to accomodate change
 - Know what the point of the chart is an convey that through the grid
+
+### Bootstrap Grid
+
+- use to easily make charts reponsive
+-
