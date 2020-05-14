@@ -92,7 +92,7 @@ d3.json('data/buildings.json').then(function (data) {
     .append('rect')
     // previous
     // .attr('y', 0)
-    // moves the bars down to the x axis
+    // moves the bars down to the x
     .attr('y', function (d) {
       return y(d.height);
     })
